@@ -1,4 +1,3 @@
-//you will start the prompt from here
 # 🌌 Welcome to AnuverseHQ
 
 AnuverseHQ is the home for innovative and community-driven open-source projects. This organization is designed to allow contributions from the open-source community while maintaining the ability to be commercially used by the project owner. Here, we aim to build high-quality tools, libraries, and frameworks that solve real-world problems, with a special focus on collaboration and growth.
@@ -45,7 +44,7 @@ We encourage developers, designers, and enthusiasts to join our community:
 
 ## 📧 Contact
 
-For inquiries, reach out to us at [your.email@example.com] or start a discussion on our GitHub page.
+For inquiries, reach out to us at [z.putra.anugrah101@gmail.com] or start a discussion on our GitHub page.
 
 ---
 Happy coding! 🚀
