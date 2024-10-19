@@ -2,19 +2,28 @@
 
 AnuverseHQ is the home for innovative and community-driven open-source projects. Our goal is to build libraries and tools that scale across platforms, covering front-end, back-end, and full-stack needs. Here, we focus on creating powerful solutions that anyone can use and contribute to, while maintaining the flexibility for future commercial applications.
 
-## 🚀 Key Projects
+## 🚀 Key Open-Source Projects
 
 ### ⚡ Seraph (Omniplatform API Client)
-Seraph is evolving into an omniplatform API client, supporting JavaScript, Flutter, and other environments. It simplifies data-driven API calls by abstracting common API operations (CRUD) while ensuring compatibility across platforms. Future versions will integrate backend services to work seamlessly with Throne, making it a full-stack library.
+Seraph is evolving into an omniplatform API client, supporting JavaScript, Flutter, and other environments. It simplifies data-driven API calls by abstracting common API operations (CRUD) while ensuring compatibility across platforms. Future versions will integrate backend services to work seamlessly with **Throne**, making it a full-stack library.
 
 ### 🛡️ Throne (Omniplatform Backend Library)
-Throne is a back-end library optimized for cross-platform usage. Originally built using string-based manipulation for CRUD operations, it's now expanding to use more secure and optimized techniques like parameterized queries, prepared statements, and microservices architecture. Throne aims to provide scalability, security, and seamless integration with both client and server-side platforms.
+Throne is a back-end library optimized for cross-platform usage. Originally built using string-based manipulation for CRUD operations, it's now expanding to use more secure and optimized techniques like parameterized queries, prepared statements, and microservices architecture. **Throne** aims to provide scalability, security, and seamless integration with both client and server-side platforms.
 
 ### 🌐 qRPC-Socket (Hybrid Communication Protocol)
-qRPC-Socket combines the benefits of WebSockets, gRPC, and GraphQL to provide a flexible, real-time communication protocol for event-driven and microservice architectures. Built in Rust, this protocol supports high scalability and can serve as the backbone of modern distributed applications.
+qRPC-Socket combines the benefits of WebSockets, gRPC, and GraphQL to provide a flexible, real-time communication protocol for event-driven and microservice architectures. Built in **Rust**, this protocol supports high scalability and can serve as the backbone of modern distributed applications.
 
 ### 🔧 PseudoFlow (Code-to-Pseudo Code Converter)
-PseudoFlow is a plugin for VSCode and IntelliJ that converts your source code into pseudo code. It helps developers document their codebases in human-readable form, aiding both learning and documentation efforts. PseudoFlow is an open-source project, and it serves as the foundation for the more advanced commercial versions (e.g., **AetherCode** or **ArcaneFlow**) that build additional functionality on top of the base plugin.
+PseudoFlow is a plugin for **VSCode** and **IntelliJ** that converts your source code into pseudo code. It helps developers document their codebases in human-readable form, aiding both learning and documentation efforts. PseudoFlow is an open-source project and serves as the foundation for more advanced versions built on top of the base plugin.
+
+### 💡 Elementum (Dynamic Layout Builder)
+Elementum is a dynamic, constraint-based layout builder for creating modular and reusable web components. Inspired by frameworks like **Android Studio's ConstraintLayout** and modern utility-based CSS systems, Elementum aims to offer a flexible and scalable way to design and build web UIs with drag-and-drop functionality. The project is in its conceptual phase, and contributions are welcome to shape its development.
+
+### 🔍 Arcanum (Component Extraction System)
+Arcanum is an open-source project designed to automate the extraction of reusable web components. It provides a seamless mechanism for listing the essential data needs of each component, enabling dynamic integration with backend systems like **NEA**. **Arcanum** is currently in its planning stage, inviting the community to contribute to its roadmap and architecture.
+
+### 📊 Obelisk (Data Management System)
+Obelisk is a data management system that acts as a backend infrastructure for dynamic applications. It provides centralized data management and integrates seamlessly with UI components, making it an essential part of a data-driven, component-based architecture. Inspired by headless CMS frameworks, **Obelisk** focuses on handling the logic and data requirements of modern web applications.
 
 ## 🛠️ Contribution Guidelines
 
